@@ -21,4 +21,5 @@ target_sources(sampapi
     CPlayerInfo.cpp 
     CTextDraw.cpp 
     CVehicle.cpp
+    CPlayerInfo.cpp
 )
