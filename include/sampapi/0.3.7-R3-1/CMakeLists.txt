@@ -3,4 +3,15 @@ target_sources(sampapi
     CChat.h
     CInput.h
     CNetGame.h
+    CActorPool.h
+    CFonts.h
+    CGangZonePool.h
+    CLabelPool.h
+    CMenuPool.h
+    CNetGame.h
+    CObjectPool.h
+    CPickupPool.h
+    CPlayerPool.h
+    CTextDrawPool.h
+    CVehiclePool.h
 )
