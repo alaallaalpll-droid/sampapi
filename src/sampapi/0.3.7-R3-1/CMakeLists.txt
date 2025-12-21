@@ -4,6 +4,7 @@ target_sources(sampapi
     CInput.cpp
     CNetGame.cpp
     CActorPool.cpp
+    CActor.cpp
     CFonts.cpp
     CGangZonePool.cpp
     CLabelPool.cpp
@@ -14,4 +15,10 @@ target_sources(sampapi
     CPlayerPool.cpp
     CTextDrawPool.cpp
     CVehiclePool.cpp
+    Commands.cpp 
+    CMenu.cpp 
+    CObject.cpp 
+    CPlayerInfo.cpp 
+    CTextDraw.cpp 
+    CVehicle.cpp
 )

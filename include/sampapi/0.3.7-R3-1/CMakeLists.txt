@@ -4,6 +4,7 @@ target_sources(sampapi
     CInput.h
     CNetGame.h
     CActorPool.h
+    CActor.h
     CFonts.h
     CGangZonePool.h
     CLabelPool.h
@@ -14,4 +15,10 @@ target_sources(sampapi
     CPlayerPool.h
     CTextDrawPool.h
     CVehiclePool.h
+    Commands.h 
+    CMenu.h 
+    CObject.h 
+    CPlayerInfo.h 
+    CTextDraw.h 
+    CVehicle.h
 )
