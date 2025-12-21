@@ -1,21 +1,58 @@
 target_sources(sampapi
   PRIVATE
-CActorPool.cpp
-CChat.cpp
-CGangZonePool.cpp
-CInput.cpp
-CLabelPool.cpp
-CLocalPlayer.cpp
-CMenuPool.cpp
-CNetGame.cpp
-CObject.cpp
-CObjectPool.cpp
-Commands.cpp
-CPickupPool.cpp
-CPlayerInfo.cpp
-CPlayerPool.cpp
-CTextDraw.cpp
-CTextDrawPool.cpp
-CVehicle.cpp
-CVehiclePool.cpp
+    AimStuff.cpp
+    CActor.cpp
+    CActorPool.cpp
+    CAudio.cpp
+    CAudioStream.cpp
+    CCamera.cpp
+    CChat.cpp
+    CChatBubble.cpp
+    CConfig.cpp
+    CDeathWindow.cpp
+    CDialog.cpp
+    CEntity.cpp
+    CFont.cpp
+    CFonts.cpp
+    CGame.cpp
+    CGangZonePool.cpp
+    CHelpDialog.cpp
+    CHttpClient.cpp
+    CInput.cpp
+    CLabel.cpp
+    CLabelPool.cpp
+    CLicensePlate.cpp
+    CLocalPlayer.cpp
+    CMenu.cpp
+    CMenuPool.cpp
+    CNetGame.cpp
+    CNetStats.cpp
+    CObject.cpp
+    CObjectMaterialText.cpp
+    CObjectPool.cpp
+    CObjectSelection.cpp
+    Commands.cpp
+    CPed.cpp
+    CPickupPool.cpp
+    CPlayerInfo.cpp
+    CPlayerPool.cpp
+    CPlayerTags.cpp
+    CRemotePlayer.cpp
+    CScoreboard.cpp
+    CSpawnScreen.cpp
+    CSrvNetStats.cpp
+    CTextDraw.cpp
+    CTextDrawPool.cpp
+    CTextDrawSelection.cpp
+    CVehicle.cpp
+    CVehiclePool.cpp
+    DebugScript.cpp
+    Exception.cpp
+    GUI.cpp
+    KeyStuff.cpp
+    Scripting.cpp
+    Settings.cpp
+    InputHandler.cpp
+    CObjectEdit.cpp
+    RPCHandlers.cpp
 )
