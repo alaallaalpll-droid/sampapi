@@ -21,4 +21,5 @@ target_sources(sampapi
     CPlayerInfo.h 
     CTextDraw.h 
     CVehicle.h
+    CRemotePlayer.h
 )
