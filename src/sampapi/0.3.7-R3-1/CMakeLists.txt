@@ -10,7 +10,6 @@ target_sources(sampapi
     CChatBubble.cpp
     CConfig.cpp
     CDeathWindow.cpp
-    CDialog.cpp
     CEntity.cpp
     CFont.cpp
     CFonts.cpp
@@ -54,5 +53,4 @@ target_sources(sampapi
     Settings.cpp
     InputHandler.cpp
     CObjectEdit.cpp
-    RPCHandlers.cpp
 )

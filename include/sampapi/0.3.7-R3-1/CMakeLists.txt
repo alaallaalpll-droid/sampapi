@@ -11,7 +11,6 @@ target_sources(sampapi
     CChatBubble.h
     CConfig.h
     CDeathWindow.h
-    CDialog.h
     CEntity.h
     CFont.h
     CFonts.h
@@ -58,5 +57,4 @@ target_sources(sampapi
     Synchronization.h
     InputHandler.h
     CObjectEdit.h
-    RPCHandlers.h
 )
